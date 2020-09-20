@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background: url("./images/mads.jpg") no-repeat;
+  background-size: 190%;
+}
+
+.quiz {
+  text-align: center;
+  color: white;
+}
+
+.card .list-group-item.red {
+  background-color: red;
+}
+
+.card .list-group-item.green {
+  background-color: limegreen;
+}
